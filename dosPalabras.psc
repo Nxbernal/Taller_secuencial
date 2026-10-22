@@ -6,6 +6,7 @@ Algoritmo dosPalabras
 	Escribir "Ingrese otra palabra"
 	Leer palabraB
 	palabraA=palabraB
+	palabraB=palabraC
 	Imprimir "La primera palabra fue ",palabraA
-	Imprimir "La segunda palabra fue ",palabraC
+	Imprimir "La segunda palabra fue ",palabraB
 FinAlgoritmo
